@@ -111,12 +111,6 @@ select age_group,
 from customer_data
 group by age_group
 order by Total_revenue DESC;
-
-
-
-
-
-
 group by subscription_status ;
 
 
